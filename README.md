@@ -1,2 +1,0 @@
-# staxio
-My awesome repository
